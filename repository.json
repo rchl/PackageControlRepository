@@ -20,6 +20,16 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "SublimeClangFormat",
+			"details": "https://github.com/rchl/SublimeClangFormat",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
 		}
 	]
 }
