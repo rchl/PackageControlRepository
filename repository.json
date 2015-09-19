@@ -2,6 +2,17 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
+			"name": "AutoFileName",
+			"details": "https://github.com/rchl/AutoFileName",
+			"author": ["rchl", "BoundInCode"],
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Git",
 			"details": "https://github.com/rchl/sublime-text-2-git",
 			"releases": [
