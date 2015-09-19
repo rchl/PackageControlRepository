@@ -13,6 +13,16 @@
 			]
 		},
 		{
+			"name": "ExternalDiff",
+			"details": "https://github.com/rchl/ExternalDiff",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Git",
 			"details": "https://github.com/rchl/sublime-text-2-git",
 			"releases": [
