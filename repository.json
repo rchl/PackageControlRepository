@@ -61,6 +61,16 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "TrailingSpaces",
+			"details": "https://github.com/rchl/TrailingSpaces",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
 		}
 	]
 }
