@@ -23,16 +23,6 @@
 			]
 		},
 		{
-			"name": "Git",
-			"details": "https://github.com/rchl/sublime-text-2-git",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "IndentToParenthesis",
 			"details": "https://github.com/rchl/IndentToParenthesis",
 			"releases": [
