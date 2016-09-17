@@ -63,6 +63,16 @@
 			]
 		},
 		{
+			"name": "HTMLPlusGritSyntax",
+			"details": "https://github.com/rchl/HTMLPlusGritSyntax",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "TrailingSpaces",
 			"details": "https://github.com/rchl/TrailingSpaces",
 			"releases": [
