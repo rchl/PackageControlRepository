@@ -53,6 +53,16 @@
 			]
 		},
 		{
+			"name": "JavaScriptPlusGritSyntax",
+			"details": "https://github.com/rchl/JavaScriptPlusGritSyntax",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "TrailingSpaces",
 			"details": "https://github.com/rchl/TrailingSpaces",
 			"releases": [
