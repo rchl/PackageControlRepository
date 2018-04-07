@@ -23,16 +23,6 @@
 			]
 		},
 		{
-			"name": "IndentToParenthesis",
-			"details": "https://github.com/rchl/IndentToParenthesis",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "IntakeToolkit",
 			"details": "https://github.com/rchl/IntakeToolkit",
 			"releases": [
