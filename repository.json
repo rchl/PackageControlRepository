@@ -23,48 +23,8 @@
 			]
 		},
 		{
-			"name": "IntakeToolkit",
-			"details": "https://github.com/rchl/IntakeToolkit",
-			"releases": [
-				{
-					"sublime_text": ">=3000",
-					"tags": true
-				}
-			]
-		},
-		{
 			"name": "SublimeClangFormat",
 			"details": "https://github.com/rchl/SublimeClangFormat",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "JavaScriptPlusGritSyntax",
-			"details": "https://github.com/rchl/JavaScriptPlusGritSyntax",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "HTMLPlusGritSyntax",
-			"details": "https://github.com/rchl/HTMLPlusGritSyntax",
-			"releases": [
-				{
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
-		},
-		{
-			"name": "TrailingSpaces",
-			"details": "https://github.com/rchl/TrailingSpaces",
 			"releases": [
 				{
 					"sublime_text": "*",
